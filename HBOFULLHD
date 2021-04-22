@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Filme" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",Família HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",Família HBO
+http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",assinatura da HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",assinatura da HBO
+http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",vermelho da HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",vermelho da HBO
+http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX MOVIE
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg",crianças Kuriakos
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
